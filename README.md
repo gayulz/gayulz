@@ -68,7 +68,7 @@
 &nbsp;
             
 # 🚧 Project List 🚧
-> 미니프로젝트 PPT 🔗 [EMBAD](https://github.com/gayulz/Study.git)    
+> 미니프로젝트 PPT 🔗 [미니프로젝트](https://github.com/gayulz/Study.git)    
 > 실시간 위치 기반 응급구조사 응급실 연계 플랫폼 🔗 [EMBAD](https://github.com/gayulz/EMBAD_project.git)       
 > 반려동물과 함께 가는 숙소찾기 🔗 [너만가냥 나도가개](https://github.com/gayulz/JAVAGUI_project.git)    
 > WEB스토리지를 사용한 날씨알림 TODOWEB 🔗 [TODOWeather](https://github.com/gayulz/TODOLIST_project.git)
