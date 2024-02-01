@@ -9,7 +9,7 @@
 &nbsp;
 &nbsp;
 
-![Developer](https://github.com/gayulz/Study/assets/109029219/8c145165-2068-4e16-8975-d747b7d0b11b)
+![Developer](https://github.com/gayulz/gayulz/assets/109029219/77842df6-ba7e-47d9-a16e-8045d1193b68)
 
 &nbsp;
 &nbsp;
