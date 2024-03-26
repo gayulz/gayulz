@@ -2,14 +2,17 @@
 
 
 <h3 align="center"> 🪴 About Me 🪴 </h3>
-<p align="center"> 성실/꾸준함/끈기.. 이런 수식어들은 너무 흔하지만 저는 그 단어 자체입니다 </p>
-<p align="center"> 서비스직을 하면서 다져온 탁월한 커뮤니케이션 능력과</p> <p align="center"> 공부하고자 하는 열정을 바탕으로 즉각 행동으로 옮기는 적극성과 실행력을 갖춘 개발자입니다
-</p>
+<p align="center"> 학부 시절부터 프로그래밍 언어는 C,C++시작으로 개발 방법론을 꾸준히 습득했으며<p>
+<p align="center"> 자바와 스프링을 중심으로 지속적인 학습 중 입니다.</p>
+<p align="center"> 현재 정보처리기사 자격증 실기 및 SQLD 준비중(올해 초 시험예정) 이며</p> <p align="center"> 추가로 Python공부와 Spring에 대한 추가 공부를 하고있습니다<p>
+<p align="center"> 공부하고자 하는 열정을 바탕으로 즉각 행동으로 옮기는 자기주도력 사고와 실행력을 갖춘 개발자입니다 </p>
 &nbsp;
 &nbsp;
 &nbsp;
 
+![Developer](https://github.com/gayulz/gayulz/assets/109029219/417d3484-2300-406a-aff0-58b5756edf81)
 ![Developer](https://github.com/gayulz/gayulz/assets/109029219/77842df6-ba7e-47d9-a16e-8045d1193b68)
+
 
 &nbsp;
 &nbsp;
@@ -99,6 +102,9 @@ Springframework의 서버단에 API호출 로직을 구현하였으며 propertie
 > 웹 스토리지를 활용한 날씨 알림 TODO 웹 어플리케이션  🔗 [TODOWeather](https://github.com/gayulz/TODOLIST_project.git)     
 > 프론트엔드로 구현한 클래식 미니 게임 🔗 [MiniGame](https://github.com/gayulz/JSMiniGame_project.git)         
 > Oracle DB를 이용한 CLI 영화 예매 프로그램 🔗 [OracleCLI](https://github.com/gayulz/ORACLECLI_project.git)    
-> 미니프로젝트 PPT 🔗 [미니프로젝트](https://github.com/gayulz/Study.git)      
+  
 
 
+# 🚧 Study Note 🚧
+> 미니프로젝트 PPT 🔗 [미니프로젝트](https://github.com/gayulz/Study.git)    
+> 혼자 공부하는 공간 Repo 🔗 [공간레포지토리](https://github.com/gayulz/MyStudy_commitRepo)
