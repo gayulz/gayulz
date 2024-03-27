@@ -8,9 +8,9 @@
 [![Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/yuuriz1519)](www.linkedin.com/in/yuuriz1519)
 [![Badge](https://img.shields.io/badge/Tistory-F40D12?style=flat-square&logo=bloglovin&logoColor=white&link=https://yurizzy.tistory.com)](https://yurizzy.tistory.com)           
 
-<img src="https://github.com/gayulz/gayulz/assets/109029219/f6b81a3b-7f08-46b7-be56-552b13f37f5e" width="32%">
+<img src="https://github.com/gayulz/gayulz/assets/109029219/f6b81a3b-7f08-46b7-be56-552b13f37f5e" width="33%">
 <img src="https://github.com/gayulz/gayulz/assets/109029219/667596a9-d8be-4fe0-a455-1f0082d82f55" width="33%">
-<img src="https://github.com/gayulz/gayulz/assets/109029219/2d2c9a09-e652-40ae-9cce-e4044ad21731" width="32%"><br>        
+<img src="https://github.com/gayulz/gayulz/assets/109029219/2d2c9a09-e652-40ae-9cce-e4044ad21731" width="33%"><br>        
 좋아하는 것 : JPOP,춘식이,고양이,키보드 <br>
 취미 : 노래 부르기, 폰 게임(스도쿠/사천성)<br>
 특기 : 오래 앉아있기 , 인프런 강의보기<br>
