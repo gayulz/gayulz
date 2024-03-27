@@ -2,7 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=120&section=header&text=My%20name%20is👋%20Gayul%20Kim&fontSize=50&animation=twinkling)
 
 
-# <center> 👩🏻‍💻 About Me</center>
+# 👩🏻‍💻 About Me 
+
 [![Badge](https://img.shields.io/badge/Email-FFCD00?style=flat-square&logo=gmail&logoColor=white&link=mailto:gayulz@kakao.com)](gayulz@kakao.com) 
 [![Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/yuuriz1519)](www.linkedin.com/in/yuuriz1519)
 [![Badge](https://img.shields.io/badge/Tistory-F40D12?style=flat-square&logo=bloglovin&logoColor=white&link=https://yurizzy.tistory.com)](https://yurizzy.tistory.com)           
