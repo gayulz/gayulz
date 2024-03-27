@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=120&section=header&text=My%20name%20is👋%20Gayul%20Kim&fontSize=50&animation=twinkling" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=120&section=header&text=My%20name%20is👋%20Gayul%20Kim&fontSize=50&animation=twinkling" width="100%"/> </p>
 <h1 align="center"> 👩🏻‍💻 ABOUT ME 👩🏻‍💻</h1>
 <p align="center"> 
 <img src="https://img.shields.io/badge/Email-FFCD00?style=flat-square&logo=gmail&logoColor=white&link=mailto:gayulz@kakao.com)](gayulz@kakao.com" />
