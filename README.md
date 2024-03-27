@@ -1,14 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=👋HI%20YUURI%20GITHUB&fontSize=50" />
+<style>
+
+#aboutme{
+    font-size : 30px;
+    weight : bold;
+    color : #F0E68C;
+}
+#likes{
+    font-size:15px;
+}
+
+#story{
+    color : #ff69b4;
+}
+</style>
 
 
-<h3 align="center"> 🪴 About Me 🪴 </h3>
-<p align="center"> 학부 시절부터 프로그래밍 언어는 C,C++시작으로 개발 방법론을 꾸준히 습득했으며<p>
-<p align="center"> 자바와 스프링을 중심으로 지속적인 학습 중 입니다.</p>
-<p align="center"> 현재 정보처리기사 자격증 실기 및 SQLD 준비중(올해 초 시험예정) 이며</p> <p align="center"> 추가로 Python공부와 Spring에 대한 추가 공부를 하고있습니다<p>
-<p align="center"> 공부하고자 하는 열정을 바탕으로 즉각 행동으로 옮기는 자기주도력 사고와 실행력을 갖춘 개발자입니다 </p>
-&nbsp;
-&nbsp;
-&nbsp;
+
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=120&section=header&text=My%20name%20is👋%20Gayul%20Kim&fontSize=50&animation=twinkling)
+
+<div style="text-align: center">
+
+<p id="aboutme"> 👩🏻‍💻 About Me  </p>
+<img src="https://github.com/gayulz/gayulz/assets/109029219/f6b81a3b-7f08-46b7-be56-552b13f37f5e" width="30%">
+<img src="https://github.com/gayulz/gayulz/assets/109029219/667596a9-d8be-4fe0-a455-1f0082d82f55" width="30%">
+<img src="https://github.com/gayulz/gayulz/assets/109029219/2d2c9a09-e652-40ae-9cce-e4044ad21731" width="30%">
+<p id="likes"> 좋아하는 것 : JPOP,춘식이,고양이,키보드 <br>
+취미 : 노래 부르기, 폰 게임(스도쿠/사천성)<br>
+특기 : 오래 앉아있기 , 인프런 강의보기<br>
+누구보다 빠르게 밥먹기 남들보다 빠르게 커피먹기 <br>
+</p>
+
+[![Badge](https://img.shields.io/badge/Email-FFCD00?style=flat-square&logo=gmail&logoColor=white&link=mailto:gayulz@kakao.com)](gayulz@kakao.com)
+[![Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/yuuriz1519)](www.linkedin.com/in/yuuriz1519)
+[![Badge](https://img.shields.io/badge/Tistory-F40D12?style=flat-square&logo=bloglovin&logoColor=white&link=https://yurizzy.tistory.com)](https://yurizzy.tistory.com)
+
+</div>
+
+
 
 ---
 # 🚧 Project List 🚧
@@ -21,19 +49,13 @@
 ---
 # 🚧 Study Note 🚧
 > 미니프로젝트 PPT 🔗 [미니프로젝트](https://github.com/gayulz/Study.git)    
-> 혼자 공부하는 공간 Repo 🔗 [공간레포지토리](https://github.com/gayulz/MyStudy_commitRepo)
-       
-&nbsp;
-&nbsp;
-&nbsp;
-![Developer](https://github.com/gayulz/gayulz/assets/109029219/77842df6-ba7e-47d9-a16e-8045d1193b68)
-       
-&nbsp;
-&nbsp;
-&nbsp;
+> 혼자 공부하는 공간 Repo :: 현재 진행형  🔗 [공간레포지토리](https://github.com/gayulz/MyStudy_commitRepo)
+
+<div id="story">
 
 
-# 📚 경험해본 기술 📚
+<details><summary>경험한 기술 스토리 🐥 Click ⭐️</summary>
+
 > **✨ JAVA**   
 🔗 [너만가냥 나도가개](https://github.com/gayulz/JAVAGUI_project.git)    
 🔗 [EMBAD](https://github.com/gayulz/EMBAD_project.git)         
@@ -87,3 +109,17 @@ MVC2 패턴을 사용 하여 컨트롤러와 서비스, 뷰에 대한 비즈니�
 EMBAD프로젝트때 사용 함 , API의 동기방식 통신과 비동기방식 통신 모두 적용 하여 사용해본 경험이 있음
 Springframework의 서버단에 API호출 로직을 구현하였으며 properties로 서비스키 관리될 수 있도록 적용함  
 ```
+
+</details>
+</div>
+
+---
+
+&nbsp;
+&nbsp;
+&nbsp;
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayulz&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayulz&theme=2077&exclude=)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gayulz&theme=2077&exclude=)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayulz&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayulz&theme=2077&utcOffset=09)
