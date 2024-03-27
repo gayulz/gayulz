@@ -1,28 +1,20 @@
-<center>
-  
+
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=120&section=header&text=My%20name%20is👋%20Gayul%20Kim&fontSize=50&animation=twinkling)
 
-</center>
 
+# <center> 👩🏻‍💻 About Me</center>
+[![Badge](https://img.shields.io/badge/Email-FFCD00?style=flat-square&logo=gmail&logoColor=white&link=mailto:gayulz@kakao.com)](gayulz@kakao.com) 
+[![Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/yuuriz1519)](www.linkedin.com/in/yuuriz1519)
+[![Badge](https://img.shields.io/badge/Tistory-F40D12?style=flat-square&logo=bloglovin&logoColor=white&link=https://yurizzy.tistory.com)](https://yurizzy.tistory.com)           
 
-<p align="center"> 👩🏻‍💻 About Me  </p>
 <img src="https://github.com/gayulz/gayulz/assets/109029219/f6b81a3b-7f08-46b7-be56-552b13f37f5e" width="30%">
 <img src="https://github.com/gayulz/gayulz/assets/109029219/667596a9-d8be-4fe0-a455-1f0082d82f55" width="30%">
-<img src="https://github.com/gayulz/gayulz/assets/109029219/2d2c9a09-e652-40ae-9cce-e4044ad21731" width="30%">
-<p align="center"> 좋아하는 것 : JPOP,춘식이,고양이,키보드 <br>
+<img src="https://github.com/gayulz/gayulz/assets/109029219/2d2c9a09-e652-40ae-9cce-e4044ad21731" width="30%"><br>        
+좋아하는 것 : JPOP,춘식이,고양이,키보드 <br>
 취미 : 노래 부르기, 폰 게임(스도쿠/사천성)<br>
 특기 : 오래 앉아있기 , 인프런 강의보기<br>
 누구보다 빠르게 밥먹기 남들보다 빠르게 커피먹기 <br>
-</p>
-<div style="text-align : center">
 
-<center> 
-  
-[![Badge](https://img.shields.io/badge/Email-FFCD00?style=flat-square&logo=gmail&logoColor=white&link=mailto:gayulz@kakao.com)](gayulz@kakao.com) 
-[![Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/yuuriz1519)](www.linkedin.com/in/yuuriz1519)
-[![Badge](https://img.shields.io/badge/Tistory-F40D12?style=flat-square&logo=bloglovin&logoColor=white&link=https://yurizzy.tistory.com)](https://yurizzy.tistory.com)
-
-</center>
 
 ---
 # 🚧 Project List 🚧
