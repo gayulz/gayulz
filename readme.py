@@ -1,3 +1,28 @@
+import feedparser
+
+URL = "https://yurizzy.tistory.com/rss"
+MAX_POST_NUM = 5
+latest_blog_post_list = ""
+
+# 피드 파서 객체 생성
+feed = feedparser.parse(URL)
+
+# 피드 항목 출력
+# for entry in feed.entries:
+#     print("제목:", entry.title)
+#     print("링크:", entry.link)
+
+
+for idx, feed in enumerate(feed['entries']):
+    if idx > MAX_POST_NUM:
+        break
+    feed_date = feed['published_parsed']
+    print(feed_date)
+    latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
+    print(latest_blog_post_list)
+
+
+markdown_text = """
 <p align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=120&section=header&text=My%20name%20is👋%20Gayul%20Kim&fontSize=50&animation=twinkling" width="100%"/> </p>
 <h1 align="center"> 👩🏻‍💻 ABOUT ME 👩🏻‍💻</h1>   
@@ -99,3 +124,11 @@ Springframework의 서버단에 API호출 로직을 구현하였으며 propertie
 
 ---
 # 🚧 Latest Blog Post 🚧
+
+"""
+
+readme_text = f"{markdown_text}{latest_blog_post_list}"
+
+with open("README.md", 'w', encoding='utf-8') as f:
+    f.write(readme_text)
+
