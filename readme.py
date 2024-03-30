@@ -17,9 +17,7 @@ for idx, feed in enumerate(feed['entries']):
     if idx > MAX_POST_NUM:
         break
     feed_date = feed['published_parsed']
-    print(feed_date)
     latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
-    print(latest_blog_post_list)
 
 
 markdown_text = """
