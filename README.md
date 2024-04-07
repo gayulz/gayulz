@@ -1,10 +1,10 @@
 
 <p align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=120&section=header&text=My%20name%20is👋%20Gayul%20Kim&fontSize=50&animation=twinkling" width="100%"/> </p>
-<h1 align="center"> 👩🏻‍💻 ABOUT ME 👩🏻‍💻</h1>   
+<h1 align="center"> 👩🏻‍💻 ABOUT ME 👩🏻‍💻</h1>   </p>
+<p align="center"> 
 <img src="https://github.com/gayulz/gayulz/assets/109029219/f6b81a3b-7f08-46b7-be56-552b13f37f5e" width="33%">
-<img src="https://github.com/gayulz/gayulz/assets/109029219/667596a9-d8be-4fe0-a455-1f0082d82f55" width="33%">
-<img src="https://github.com/gayulz/gayulz/assets/109029219/2d2c9a09-e652-40ae-9cce-e4044ad21731" width="33%"><br>          
+<img src="https://github.com/gayulz/gayulz/assets/109029219/667596a9-d8be-4fe0-a455-1f0082d82f55" width="33%"><br>          
 </p>
 <p align="center"> 
 좋아하는 것 : JPOP,춘식이,고양이,키보드 <br>
@@ -98,12 +98,3 @@ Springframework의 서버단에 API호출 로직을 구현하였으며 propertie
 </details>
 </div>
 
----
-# 🚧 Latest Blog Post 🚧
-
-[2024/3/27 - What did you do today? (Feat. 구직 어린이의 요즘이야기)](https://yurizzy.tistory.com/231) <br>
-[2024/3/12 - 심심한데 파이썬으로 웹 페이지나 하나 만들어 볼까?](https://yurizzy.tistory.com/230) <br>
-[2024/2/21 - Developer Kimgayul](https://yurizzy.tistory.com/229) <br>
-[2024/2/9 - 스프링의 생태계/Spring과 객체지향/SOLID원칙/Spring의 핵심 및 컨셉](https://yurizzy.tistory.com/228) <br>
-[2024/2/7 - 프로젝트를 하면서 공부한 응답헤더 / 그대는 301번과 302번의 차이를 아는가 ? / 공부할때 디테일을 살려서 공부해야 한다](https://yurizzy.tistory.com/227) <br>
-[2024/2/4 - AWS를 떠나고 GCP로 이전하다/ubuntu GCP, vim, docker, oracle, tomcat, jenkins, slack설치 관련 참고한 링크 모음](https://yurizzy.tistory.com/226) <br>

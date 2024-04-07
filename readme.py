@@ -23,10 +23,10 @@ for idx, feed in enumerate(feed['entries']):
 markdown_text = """
 <p align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=120&section=header&text=My%20name%20is👋%20Gayul%20Kim&fontSize=50&animation=twinkling" width="100%"/> </p>
-<h1 align="center"> 👩🏻‍💻 ABOUT ME 👩🏻‍💻</h1>   
+<h1 align="center"> 👩🏻‍💻 ABOUT ME 👩🏻‍💻</h1>   </p>
+<p align="center"> 
 <img src="https://github.com/gayulz/gayulz/assets/109029219/f6b81a3b-7f08-46b7-be56-552b13f37f5e" width="33%">
-<img src="https://github.com/gayulz/gayulz/assets/109029219/667596a9-d8be-4fe0-a455-1f0082d82f55" width="33%">
-<img src="https://github.com/gayulz/gayulz/assets/109029219/2d2c9a09-e652-40ae-9cce-e4044ad21731" width="33%"><br>          
+<img src="https://github.com/gayulz/gayulz/assets/109029219/667596a9-d8be-4fe0-a455-1f0082d82f55" width="33%"><br>          
 </p>
 <p align="center"> 
 좋아하는 것 : JPOP,춘식이,고양이,키보드 <br>
@@ -129,4 +129,3 @@ readme_text = f"{markdown_text}{latest_blog_post_list}"
 
 with open("README.md", 'w', encoding='utf-8') as f:
     f.write(readme_text)
-
