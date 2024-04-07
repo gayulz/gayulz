@@ -94,6 +94,16 @@ MVC2 패턴을 사용 하여 컨트롤러와 서비스, 뷰에 대한 비즈니�
 EMBAD프로젝트때 사용 함 , API의 동기방식 통신과 비동기방식 통신 모두 적용 하여 사용해본 경험이 있음
 Springframework의 서버단에 API호출 로직을 구현하였으며 properties로 서비스키 관리될 수 있도록 적용함  
 ```
+
 </details>
 </div>
 
+---
+# 🚧 Latest Blog Post 🚧
+
+[2024/4/4 - H2 DataBase (In-Memory Mode)로 사용설정](https://yurizzy.tistory.com/233) <br>
+[2024/3/27 - What did you do today? (Feat. 구직 어린이의 요즘이야기)](https://yurizzy.tistory.com/231) <br>
+[2024/3/12 - 심심한데 파이썬으로 웹 페이지나 하나 만들어 볼까?](https://yurizzy.tistory.com/230) <br>
+[2024/2/21 - Developer Kimgayul](https://yurizzy.tistory.com/229) <br>
+[2024/2/9 - 스프링의 생태계/Spring과 객체지향/SOLID원칙/Spring의 핵심 및 컨셉](https://yurizzy.tistory.com/228) <br>
+[2024/2/7 - 프로젝트를 하면서 공부한 응답헤더 / 그대는 301번과 302번의 차이를 아는가 ? / 공부할때 디테일을 살려서 공부해야 한다](https://yurizzy.tistory.com/227) <br>
