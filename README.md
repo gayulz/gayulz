@@ -101,9 +101,9 @@ Springframework의 서버단에 API호출 로직을 구현하였으며 propertie
 ---
 # 🚧 Latest Blog Post 🚧
 
-[2024/4/12 - 2024년 1월 ~ 3월 구직기간이야기, 첫 출근을 앞두고 쓰는 이야기](http://yurizzy.tistory.com/234) <br>
-[2024/4/4 - H2 DataBase (In-Memory Mode)로 사용설정](http://yurizzy.tistory.com/233) <br>
-[2024/3/27 - What did you do today? (Feat. 구직 어린이의 요즘이야기)](http://yurizzy.tistory.com/231) <br>
-[2024/2/21 - Developer Kimgayul](http://yurizzy.tistory.com/229) <br>
-[2024/2/9 - 스프링의 생태계/Spring과 객체지향/SOLID원칙/Spring의 핵심 및 컨셉](http://yurizzy.tistory.com/228) <br>
-[2024/2/7 - 프로젝트를 하면서 공부한 응답헤더 / 그대는 301번과 302번의 차이를 아는가 ? / 공부할때 디테일을 살려서 공부해야 한다](http://yurizzy.tistory.com/227) <br>
+[2024/4/12 - 2024년 1월 ~ 3월 구직기간이야기, 첫 출근을 앞두고 쓰는 이야기](https://yurizzy.tistory.com/234) <br>
+[2024/4/4 - H2 DataBase (In-Memory Mode)로 사용설정](https://yurizzy.tistory.com/233) <br>
+[2024/3/27 - What did you do today? (Feat. 구직 어린이의 요즘이야기)](https://yurizzy.tistory.com/231) <br>
+[2024/2/21 - Developer Kimgayul](https://yurizzy.tistory.com/229) <br>
+[2024/2/9 - 스프링의 생태계/Spring과 객체지향/SOLID원칙/Spring의 핵심 및 컨셉](https://yurizzy.tistory.com/228) <br>
+[2024/2/7 - 프로젝트를 하면서 공부한 응답헤더 / 그대는 301번과 302번의 차이를 아는가 ? / 공부할때 디테일을 살려서 공부해야 한다](https://yurizzy.tistory.com/227) <br>
