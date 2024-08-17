@@ -1,7 +1,7 @@
 import feedparser
 
 URL = "https://yurizzy.tistory.com/rss"
-MAX_POST_NUM = 5
+MAX_POST_NUM = 10
 latest_blog_post_list = ""
 
 # 피드 파서 객체 생성
