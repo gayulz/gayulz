@@ -1,19 +1,6 @@
 
 <p align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=120&section=header&text=My%20name%20is👋%20Gayul%20Kim&fontSize=50&animation=twinkling" width="100%"/> </p>
-<h1 align="center"> 👩🏻‍💻 ABOUT ME 👩🏻‍💻</h1>   </p>
-<p align="center"> 
-<img src="https://github.com/gayulz/gayulz/assets/109029219/f6b81a3b-7f08-46b7-be56-552b13f37f5e" width="33%">
-<img src="https://github.com/gayulz/gayulz/assets/109029219/667596a9-d8be-4fe0-a455-1f0082d82f55" width="33%"><br>          
-</p>
-<p align="center"> 
-좋아하는 것 : JPOP,춘식이,고양이,키보드 <br>
-취미 : 노래 부르기, 폰 게임(스도쿠/사천성)<br>
-특기 : 오래 앉아있기 , 인프런 강의보기<br>
-누구보다 빠르게 밥먹기 남들보다 빠르게 커피먹기 <br>
-</p>
-
----
 <p align="center"> 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayulz&theme=2077" width="100%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayulz&theme=2077&exclude=HTML,CSS" width="49%"/>
@@ -21,24 +8,6 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayulz&theme=2077" width="49%"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayulz&theme=2077&utcOffset=09" width="49%" />
 </p>
-
----
-
-# 🚧 Project List 🚧
-> 실시간 위치 기반 응급구조사 응급실 연계 플랫폼 🔗 [EMBAD](https://github.com/gayulz/EMBAD_project.git)         
-> 반려동물과 함께 가는 숙소찾기 🔗 [너만가냥 나도가개](https://github.com/gayulz/JAVAGUI_project.git)          
-> 웹 스토리지를 활용한 날씨 알림 TODO 웹 어플리케이션  🔗 [TODOWeather](https://github.com/gayulz/TODOLIST_project.git)     
-> 프론트엔드로 구현한 클래식 미니 게임 🔗 [MiniGame](https://github.com/gayulz/JSMiniGame_project.git)         
-> Oracle DB를 이용한 CLI 영화 예매 프로그램 🔗 [OracleCLI](https://github.com/gayulz/ORACLECLI_project.git)    
-  
----
-# 🚧 Study Note 🚧
-> 미니프로젝트 PPT 🔗 [미니프로젝트](https://github.com/gayulz/Study.git)    
-> 혼자 공부하는 공간 Repo :: 현재 진행형  🔗 [공간레포지토리](https://github.com/gayulz/MyStudy_commitRepo)
-
-<div style="color : #ff69b4;">
-
-
 <details><summary>경험한 기술 스토리 🐥 Click ⭐️</summary>
 
 > **✨ JAVA**   
