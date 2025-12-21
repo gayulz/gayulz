@@ -93,7 +93,6 @@
 [![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yurizzy.tistory.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayulz@kakao.com)
 
-
 ---
 
 <br>
