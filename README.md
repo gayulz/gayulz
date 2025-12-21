@@ -1,8 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=120&section=header&text=My%20name%20is👋%20Gayul%20Kim&fontSize=50&animation=twinkling" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=👩🏻‍💻안녕하세요-nl-Hello%20👋%20Hola&fontAlignY=50&fontColor=FFDD00&fontSize=80&animation=twinkling&section=header&reversal=true&descAlign=47&descAlignY=56&fontAlign=51&rotate=0&strokeWidth=1&stroke=FAF8FF" width="100%"/>
 ### 안녕하세요! Spring 백엔드 개발자 김가율입니다 🙇‍♀️
 
 > 레거시 코드 고도화와 Spring Framework 학습에 열정을 가진 주니어 개발자입니다.  
