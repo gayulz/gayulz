@@ -147,8 +147,10 @@ footer = """
 <br>
 <img width="296" height="168" alt="Image" src="https://github.com/user-attachments/assets/390c69f7-95f0-4b08-b248-8b14384c1957" />
 
-*"꾸준함이 재능을 이긴다" - Keep learning, Keep growing 🌱*
+### *"꾸준함이 재능을 이긴다" - Keep learning, Keep growing 🌱*
 
+<br>
+<br>
 </div>
 """
 
