@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=👩🏻‍💻안녕하세요-nl-Hello%20👋%20Hola&fontAlignY=50&fontColor=FFDD00&fontSize=60&animation=twinkling&section=header&reversal=true&descAlign=47&descAlignY=56&fontAlign=51&rotate=0&strokeWidth=1&stroke=FAF8FF" width="100%"/>
 
 ## 끊임없이 배우고 성장하는 것을 즐기는 신입 개발자 입니다 🙋🏻‍♀️
