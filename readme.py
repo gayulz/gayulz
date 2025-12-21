@@ -57,8 +57,7 @@ for idx, entry in enumerate(feed["entries"]):
         emoji = "🚀"
     
     # 보기 좋은 형식으로 포스트 아이템 생성
-    latest_blog_post_list += f"\n    📅 `{date_str}` : "
-    latest_blog_post_list += f"{emoji} **[{title}]({link})**  \n\n"
+    latest_blog_post_list += f"📅 `{date_str}` : {emoji} **[{title}]({link})**\n\n"
 
 # ============================================================
 # README 마크다운 템플릿
