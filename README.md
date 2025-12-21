@@ -6,7 +6,6 @@
 
 ## 끊임없이 배우고 성장하는 것을 즐기는 신입 개발자 입니다 🙋🏻‍♀️
 
-
 ### 🛠️ In My Tech Stack
 
 **Backend**  
@@ -91,7 +90,7 @@
 ---
 
 <br>
-<img width="396" height="228" alt="Image" src="https://github.com/user-attachments/assets/390c69f7-95f0-4b08-b248-8b14384c1957" />
+<img width="296" height="168" alt="Image" src="https://github.com/user-attachments/assets/390c69f7-95f0-4b08-b248-8b14384c1957" />
 
 ### *"꾸준함이 재능을 이긴다" - Keep learning, Keep growing 🌱*
 
