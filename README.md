@@ -15,9 +15,8 @@
   
 ---  
   
-<h2> 🛠️ In My Tech Stack </h2>  
+<p style="font-size:30px;font-weight:bold;"> 🛠️ In My Tech Stack </p>
 <br>
-
 
 **Backend**  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)

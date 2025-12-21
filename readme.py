@@ -207,9 +207,8 @@ markdown_text = """
 
 ---
 
-<h2> 🛠️ In My Tech Stack </h2>
+<p style="font-size:30px;font-weight:bold;"> 🛠️ In My Tech Stack </p>
 <br>
-
 
 **Backend**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -232,14 +231,13 @@ markdown_text = """
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-
 </div>
 
 
 ---
 
 <br>
-<h2> 📝 Latest Blog Posts </h2><br>
+<p style="font-size:30px;font-weight:bold;"> 📝 Latest Blog Posts </p>
 
 """
 
@@ -254,7 +252,7 @@ footer = """
 
 ---
 
-<h2>📫 Contact Me</h2>
+<p style="font-size:30px;font-weight:bold;"> 📫 Contact Me </p>
 
 [![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yurizzy.tistory.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayulz@kakao.com)
