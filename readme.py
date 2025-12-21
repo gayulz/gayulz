@@ -59,6 +59,7 @@ for idx, entry in enumerate(feed["entries"]):
     # 보기 좋은 형식으로 포스트 아이템 생성
     latest_blog_post_list += f"    📅 `{date_str}` : "
     latest_blog_post_list += f"{emoji} **[{title}]({link})**  \n\n"
+    latest_blog_post_list += f"     "
 
 # ============================================================
 # README 마크다운 템플릿
@@ -123,6 +124,7 @@ markdown_text = """
 ## 📝 Latest Blog Posts
 
 <br>
+
 """
 
 # ============================================================
