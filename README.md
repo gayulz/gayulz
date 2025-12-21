@@ -95,7 +95,9 @@
 
 ---
 
+
 <img width="596" height="368" alt="Image" src="https://github.com/user-attachments/assets/390c69f7-95f0-4b08-b248-8b14384c1957" />
+
 *"꾸준함이 재능을 이긴다" - Keep learning, Keep growing 🌱*
 
 </div>
