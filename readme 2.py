@@ -89,13 +89,13 @@ for idx, entry in enumerate(feed["entries"]):
 
 markdown_text = """
 <p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=120&section=header&text=My%20name%20is👋%20Gayul%20Kim&fontSize=50&animation=twinkling" width="100%"/> </p>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=👩🏻‍💻안녕하세요-nl-Hello%20👋%20Hola&fontAlignY=50&fontColor=FFDD00&fontSize=80&animation=twinkling&section=header&reversal=true&descAlign=47&descAlignY=56&fontAlign=51&rotate=0&strokeWidth=1&stroke=FAF8FF" width="100%"/> </p>
 <p align="center"> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayulz&theme=2077" width="100%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayulz&theme=2077&exclude=HTML,CSS" width="49%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gayulz&theme=2077&exclude=HTML,CSS" width="49%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayulz&theme=2077" width="49%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayulz&theme=2077&utcOffset=09" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayulz&theme=vision_friendly_dark" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayulz&theme=vision_friendly_dark&exclude=HTML,CSS" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gayulz&theme=vision_friendly_dark&exclude=HTML,CSS" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayulz&theme=vision_friendly_dark" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayulz&theme=vision_friendly_dark&utcOffset=09" width="49%" />
 </p>
 
 ---
