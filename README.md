@@ -17,6 +17,8 @@
 
 ### 🛠️ In My Tech Stack
 
+### |
+
 **Backend**  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -68,9 +70,6 @@
 
 
 <div align="center">  
-<br>  
-<br>  
-
   
 ---  
 
