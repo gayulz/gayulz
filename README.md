@@ -4,14 +4,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=👩🏻‍💻안녕하세요-nl-Hello%20👋%20Hola&fontAlignY=50&fontColor=FFDD00&fontSize=80&animation=twinkling&section=header&reversal=true&descAlign=47&descAlignY=56&fontAlign=51&rotate=0&strokeWidth=1&stroke=FAF8FF" width="100%"/>
 
-## 안녕하세요! Spring 백엔드 개발자 김가율입니다 🙇‍♀️
+## 끊임없이 배우고 성장하는 것을 즐기는 신입 개발자 입니다 🙋🏻‍♀️
 
-> 레거시 코드 고도화와 Spring Framework 학습에 열정을 가진 주니어 개발자입니다.  
-> 끊임없이 배우고 성장하는 것을 즐깁니다. 
 
----
-
-### 🛠️ Tech Stack
+### 🛠️ In My Tech Stack
 
 **Backend**  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -89,14 +85,13 @@
 ---
 
 ## 📫 Contact Me
-
 [![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yurizzy.tistory.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayulz@kakao.com)
 
 ---
 
 <br>
-<img width="296" height="168" alt="Image" src="https://github.com/user-attachments/assets/390c69f7-95f0-4b08-b248-8b14384c1957" />
+<img width="396" height="228" alt="Image" src="https://github.com/user-attachments/assets/390c69f7-95f0-4b08-b248-8b14384c1957" />
 
 ### *"꾸준함이 재능을 이긴다" - Keep learning, Keep growing 🌱*
 
