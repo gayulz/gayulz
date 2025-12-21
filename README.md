@@ -37,16 +37,16 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayulz&theme=vision_friendly_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayulz&theme=2077" width="100%" />
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayulz&theme=vision_friendly_dark&exclude=HTML,CSS" width="49%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gayulz&theme=vision_friendly_dark&exclude=HTML,CSS" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayulz&theme=2077&exclude=HTML,CSS" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gayulz&theme=2077&exclude=HTML,CSS" width="49%"/>
 </p>
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayulz&theme=vision_friendly_dark" width="49%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayulz&theme=vision_friendly_dark&utcOffset=09" width="49%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayulz&theme=2077" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayulz&theme=2077&utcOffset=09" width="49%" />
 </p>
 
 ---
