@@ -136,8 +136,7 @@ footer = """
 
 ---
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgayulz&count_bg=%236C63FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
+<img width="596" height="368" alt="Image" src="https://github.com/user-attachments/assets/390c69f7-95f0-4b08-b248-8b14384c1957" />
 *"꾸준함이 재능을 이긴다" - Keep learning, Keep growing 🌱*
 
 </div>
