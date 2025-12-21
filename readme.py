@@ -57,8 +57,8 @@ for idx, entry in enumerate(feed["entries"]):
         emoji = "🚀"
     
     # 보기 좋은 형식으로 포스트 아이템 생성
-    latest_blog_post_list += f"{emoji} **[{title}]({link})**  "
-    latest_blog_post_list += f"   📅 `{date_str}`\n\n"
+    latest_blog_post_list += f"    📅 `{date_str}` : "
+    latest_blog_post_list += f"{emoji} **[{title}]({link})**  \n\n"
 
 # ============================================================
 # README 마크다운 템플릿
@@ -68,7 +68,7 @@ markdown_text = """
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=👩🏻‍💻안녕하세요-nl-Hello%20👋%20Hola&fontAlignY=50&fontColor=FFDD00&fontSize=80&animation=twinkling&section=header&reversal=true&descAlign=47&descAlignY=56&fontAlign=51&rotate=0&strokeWidth=1&stroke=FAF8FF" width="100%"/>
 
-### 안녕하세요! Spring 백엔드 개발자 김가율입니다 🙇‍♀️
+## 안녕하세요! Spring 백엔드 개발자 김가율입니다 🙇‍♀️
 
 > 레거시 코드 고도화와 Spring Framework 학습에 열정을 가진 주니어 개발자입니다.  
 > 끊임없이 배우고 성장하는 것을 즐깁니다. 
@@ -113,11 +113,17 @@ markdown_text = """
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayulz&theme=vision_friendly_dark" width="49%"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayulz&theme=vision_friendly_dark&utcOffset=09" width="49%" />
 </p>
+</div>
+
 
 ---
 
+<br>
 
-### 📝 Latest Blog Posts
+## 📝 Latest Blog Posts
+
+<br>
+
 
 """
 
@@ -125,11 +131,15 @@ markdown_text = """
 # 푸터 생성
 # ============================================================
 footer = """
+
 <div align="center">
+<br>
+<br>
+
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 
 [![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yurizzy.tistory.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayulz@kakao.com)

@@ -48,11 +48,15 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayulz&theme=2077" width="49%"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayulz&theme=2077&utcOffset=09" width="49%" />
 </p>
+</div>
 
 ---
 
+<br>
 
-### 📝 Latest Blog Posts
+## 📝 Latest Blog Posts
+
+<br>
 
 🌱 **[&zwj;  Springframwork Mig 기록 : 레거시 코드 고도화 작업 계획](https://yurizzy.tistory.com/250)**     📅 `2025.12.09`
 
@@ -75,7 +79,11 @@
 ☕ **[Java7의 날짜계산 : Date, Calendar, SimpleDateFormat(2)](https://yurizzy.tistory.com/240)**     📅 `2024.08.16`
 
 
+
 <div align="center">
+<br>
+<br>
+
 
 ---
 
