@@ -6,7 +6,6 @@
 
 ## 끊임없이 배우고 성장하는 것을 즐기는 신입 개발자 입니다 🙋🏻‍♀️
 
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayulz&theme=vision_friendly_dark" width="100%" />
 
 <p align="center">
@@ -40,6 +39,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </div>
+
 
 ---
 
