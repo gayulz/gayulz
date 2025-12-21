@@ -2,7 +2,7 @@
 <div align="center">
 
 <p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=500&color=gradient&text=👩🏻‍💻안녕하세요-nl-Hello%20👋%20Hola&fontAlignY=50&fontColor=FFDD00&fontSize=80&animation=twinkling&section=header&reversal=true&descAlign=47&descAlignY=56&fontAlign=51&rotate=0&strokeWidth=1&stroke=FAF8FF" width="100%"/> </p>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=👩🏻‍💻안녕하세요-nl-Hello%20👋%20Hola&fontAlignY=50&fontColor=FFDD00&fontSize=80&animation=twinkling&section=header&reversal=true&descAlign=47&descAlignY=56&fontAlign=51&rotate=0&strokeWidth=1&stroke=FAF8FF" width="100%"/> </p>
 
 ### Spring 백엔드 개발자 김가율입니다 🙇‍♀️
 
