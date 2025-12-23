@@ -47,6 +47,8 @@
 
 ### 📝 Latest Blog Posts
 
+📅 `2025.12.23` : 🌱 **[&zwj;  Springframwork Mig 기록 : Spring Boot에서 Jasypt 자동 암복호화가 동작하는 원리](https://yurizzy.tistory.com/253)**
+
 📅 `2025.12.22` : 🌱 **[&zwj;  Springframwork Mig 기록 : @RequiredArgsConstructor와 의존성 주입, 언제 안전하고 언제 위험한가](https://yurizzy.tistory.com/252)**
 
 📅 `2025.12.21` : 🌱 **[&zwj;  Springframwork Mig 기록 : 폐쇄망 환경에서 Gradle 빌드 설정  삽 질기](https://yurizzy.tistory.com/251)**
@@ -64,8 +66,6 @@
 📅 `2025.05.17` : 🐍 **[주니어 개발자 :   Python 오프라인 패키지 설치](https://yurizzy.tistory.com/245)**
 
 📅 `2025.05.17` : 🐍 **[주니어 개발자 :   Python 사용하기 / Window &amp; VSCode &amp; 오프라인 패키지 설치](https://yurizzy.tistory.com/244)**
-
-📅 `2024.08.17` : ☕ **[xml파일이나 java파일 수정 후 적용이 안 되는 경우 | 이클립스 Build오류](https://yurizzy.tistory.com/242)**
 
 
 <div align="center">
