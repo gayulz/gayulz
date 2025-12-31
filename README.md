@@ -47,6 +47,8 @@
 
 ### 📝 Latest Blog Posts
 
+📅 `2025.12.31` : 🌱 **[&zwj;  Springframwork Mig 기록 : 레거시 프로젝트에 단위 테스트 도입하기(feat.실패하고 배운 이야기)](https://yurizzy.tistory.com/254)**
+
 📅 `2025.12.23` : 🌱 **[&zwj;  Springframwork Mig 기록 : Spring Boot에서 Jasypt 자동 암복호화가 동작하는 원리](https://yurizzy.tistory.com/253)**
 
 📅 `2025.12.22` : 🌱 **[&zwj;  Springframwork Mig 기록 : @RequiredArgsConstructor와 의존성 주입, 언제 안전하고 언제 위험한가](https://yurizzy.tistory.com/252)**
@@ -64,8 +66,6 @@
 📅 `2025.05.26` : 🐍 **[주니어 개발자 : Python   서버 별 로그 .txt 파일 병합, Excel 파일 변환](https://yurizzy.tistory.com/246)**
 
 📅 `2025.05.17` : 🐍 **[주니어 개발자 :   Python 오프라인 패키지 설치](https://yurizzy.tistory.com/245)**
-
-📅 `2025.05.17` : 🐍 **[주니어 개발자 :   Python 사용하기 / Window &amp; VSCode &amp; 오프라인 패키지 설치](https://yurizzy.tistory.com/244)**
 
 
 <div align="center">
