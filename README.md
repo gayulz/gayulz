@@ -47,19 +47,19 @@
 
 ### 📝 Latest Blog Posts
 
-📅 `2026.01.01` : 🌱 **[&zwj;  Springframwork 실무 : 레거시 API 성능 개선기(feat. JPA) / N+1 문제와의 3라운드 사투](https://yurizzy.tistory.com/255)**
+📅 `2026.01.01` : 📖 **[&zwj;  Springframwork 실무 : 레거시 API 성능 개선기(feat. JPA) / N+1 문제와의 3라운드 사투](https://yurizzy.tistory.com/255)**
 
-📅 `2025.12.31` : 🌱 **[&zwj;  Springframwork Mig 기록 : 레거시 프로젝트에 단위 테스트 도입하기(feat.실패하고 배운 이야기)](https://yurizzy.tistory.com/254)**
+📅 `2025.12.31` : 🚀 **[&zwj;  Springframwork Mig 기록 : 레거시 프로젝트에 단위 테스트 도입하기(feat.실패하고 배운 이야기)](https://yurizzy.tistory.com/254)**
 
-📅 `2025.12.23` : 🌱 **[&zwj;  Springframwork Mig 기록 : Spring Boot에서 Jasypt 자동 암복호화가 동작하는 원리](https://yurizzy.tistory.com/253)**
+📅 `2025.12.23` : 🚀 **[&zwj;  Springframwork Mig 기록 : Spring Boot에서 Jasypt 자동 암복호화가 동작하는 원리](https://yurizzy.tistory.com/253)**
 
-📅 `2025.12.22` : 🌱 **[&zwj;  Springframwork Mig 기록 : @RequiredArgsConstructor와 의존성 주입, 언제 안전하고 언제 위험한가](https://yurizzy.tistory.com/252)**
+📅 `2025.12.22` : 🚀 **[&zwj;  Springframwork Mig 기록 : @RequiredArgsConstructor와 의존성 주입, 언제 안전하고 언제 위험한가](https://yurizzy.tistory.com/252)**
 
-📅 `2025.12.21` : 🌱 **[&zwj;  Springframwork Mig 기록 : 폐쇄망 환경에서 Gradle 빌드 설정  삽 질기](https://yurizzy.tistory.com/251)**
+📅 `2025.12.21` : 🚀 **[&zwj;  Springframwork Mig 기록 : 폐쇄망 환경에서 Gradle 빌드 설정  삽 질기](https://yurizzy.tistory.com/251)**
 
-📅 `2025.12.09` : 🌱 **[&zwj;  Springframwork Mig 기록 : 레거시 코드 고도화 작업 계획](https://yurizzy.tistory.com/250)**
+📅 `2025.12.09` : 🚀 **[&zwj;  Springframwork Mig 기록 : 레거시 코드 고도화 작업 계획](https://yurizzy.tistory.com/250)**
 
-📅 `2025.11.07` : 🌱 **[&zwj;  Springframwork Mig 기록 : Springframework와 SpringBoot의 주요 설정파일 기능 정리](https://yurizzy.tistory.com/249)**
+📅 `2025.11.07` : 🚀 **[&zwj;  Springframwork Mig 기록 : Springframework와 SpringBoot의 주요 설정파일 기능 정리](https://yurizzy.tistory.com/249)**
 
 📅 `2025.09.18` : 🌱 **[⛔️ Could not transfer artifact ... Received fatal alert: protocol version &amp; maven-surefire-plugin | Spring레거시&amp;Maven&amp;JDK1.7 Build오류 ⛔️](https://yurizzy.tistory.com/248)**
 
