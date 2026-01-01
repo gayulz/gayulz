@@ -32,7 +32,11 @@ for idx, entry in enumerate(feed["entries"]):
     emoji = "📝"
     title_lower = title.lower()
 
-    if "spring" in title_lower or "springframework" in title_lower:
+    if "실무" in title_lower:
+        emoji = "📖"
+    elif "mig" in title_lower or "마이그레이션" in title_lower or "고도화" in title_lower:
+        emoji = "🚀"
+    elif "spring" in title_lower or "springframework" in title_lower:
         emoji = "🌱"
     elif "java" in title_lower:
         emoji = "☕"
@@ -44,10 +48,8 @@ for idx, entry in enumerate(feed["entries"]):
         emoji = "🔧"
     elif "기록" in title_lower or "후기" in title_lower or "이야기" in title_lower:
         emoji = "✍️"
-    elif "mig" in title_lower or "마이그레이션" in title_lower or "고도화" in title_lower:
-        emoji = "🚀"
-    elif "실무" in title_lower or "마이그레이션" in title_lower or "고도화" in title_lower:
-        emoji = "📖"
+
+
 
     # 포스트 아이템 생성
     latest_blog_post_list += f"📅 `{date_str}` : {emoji} **[{title}]({link})**\n\n"
