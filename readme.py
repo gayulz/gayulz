@@ -46,6 +46,8 @@ for idx, entry in enumerate(feed["entries"]):
         emoji = "✍️"
     elif "mig" in title_lower or "마이그레이션" in title_lower or "고도화" in title_lower:
         emoji = "🚀"
+    elif "실무" in title_lower or "마이그레이션" in title_lower or "고도화" in title_lower:
+        emoji = "📖"
 
     # 포스트 아이템 생성
     latest_blog_post_list += f"📅 `{date_str}` : {emoji} **[{title}]({link})**\n\n"
