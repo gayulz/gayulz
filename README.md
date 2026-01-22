@@ -47,6 +47,8 @@
 
 ### 📝 Latest Blog Posts
 
+📅 `2026.01.22` : 📖 **[&zwj;  Springframwork 실무 : JSP에서 JavaScript로  데이터 토스 ! ObjectMapper로 해결한 이야기](https://yurizzy.tistory.com/257)**
+
 📅 `2026.01.04` : ✍️ **[Inflearn ✅ 내가 하는 공부 로드맵 (feat. 2년 차 주니어가 만든 두 가지 학습 로드맵 이야기)](https://yurizzy.tistory.com/256)**
 
 📅 `2026.01.01` : 📖 **[&zwj;  Springframwork 실무 : 레거시 API 성능 개선기(feat. JPA) / N+1 문제와의 3라운드 사투](https://yurizzy.tistory.com/255)**
@@ -64,8 +66,6 @@
 📅 `2025.11.07` : 🚀 **[&zwj;  Springframwork Mig 기록 : Springframework와 SpringBoot의 주요 설정파일 기능 정리](https://yurizzy.tistory.com/249)**
 
 📅 `2025.09.18` : 🌱 **[⛔️ Could not transfer artifact ... Received fatal alert: protocol version &amp; maven-surefire-plugin | Spring레거시&amp;Maven&amp;JDK1.7 Build오류 ⛔️](https://yurizzy.tistory.com/248)**
-
-📅 `2025.05.26` : 🐍 **[주니어 개발자 : Python Excel 파일에서 필요한 데이터 추출, 병합하기](https://yurizzy.tistory.com/247)**
 
 
 <div align="center">
