@@ -47,6 +47,8 @@
 
 ### 📝 Latest Blog Posts
 
+📅 `2026.03.06` : 🌱 **[IP:8080은 이제 그만! 내 Spring Boot 프로젝트에 도메인과 HTTPS(무료) 자물쇠 달아주기](https://yurizzy.tistory.com/258)**
+
 📅 `2026.01.22` : 📖 **[&zwj;  Springframwork 실무 : JSP에서 JavaScript로  데이터 토스 ! ObjectMapper로 해결한 이야기](https://yurizzy.tistory.com/257)**
 
 📅 `2026.01.04` : ✍️ **[Inflearn ✅ 내가 하는 공부 로드맵 (feat. 2년 차 주니어가 만든 두 가지 학습 로드맵 이야기)](https://yurizzy.tistory.com/256)**
@@ -64,8 +66,6 @@
 📅 `2025.12.09` : 🚀 **[&zwj;  Springframwork Mig 기록 : 레거시 코드 고도화 작업 계획](https://yurizzy.tistory.com/250)**
 
 📅 `2025.11.07` : 🚀 **[&zwj;  Springframwork Mig 기록 : Springframework와 SpringBoot의 주요 설정파일 기능 정리](https://yurizzy.tistory.com/249)**
-
-📅 `2025.09.18` : 🌱 **[⛔️ Could not transfer artifact ... Received fatal alert: protocol version &amp; maven-surefire-plugin | Spring레거시&amp;Maven&amp;JDK1.7 Build오류 ⛔️](https://yurizzy.tistory.com/248)**
 
 
 <div align="center">
