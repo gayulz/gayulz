@@ -90,6 +90,8 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📅 `2026.04.16` : 🚀 **[&zwj;  Springframwork Mig 기록 : OKTA SAML 로그인 무한 루프 디버깅기 (feat. 백엔드&middot;프론트 환장의 콜라보)](https://yurizzy.tistory.com/262)**
+
 📅 `2026.04.03` : 📝 **[&zwj;  GCP to OCI 이전 구축기 및 504 Gateway Time-out 해결기 (feat. Swap Memory)](https://yurizzy.tistory.com/261)**
 
 📅 `2026.04.01` : 📝 **[인프런(인프랩) 방문기 | 공약은 반드시 지킨다 (feat. 카파도키아 파우치)](https://yurizzy.tistory.com/260)**
@@ -107,8 +109,6 @@
 📅 `2025.12.31` : 🚀 **[&zwj;  Springframwork Mig 기록 : 레거시 프로젝트에 단위 테스트 도입하기(feat.실패하고 배운 이야기)](https://yurizzy.tistory.com/254)**
 
 📅 `2025.12.23` : 🚀 **[&zwj;  Springframwork Mig 기록 : Spring Boot에서 Jasypt 자동 암복호화가 동작하는 원리](https://yurizzy.tistory.com/253)**
-
-📅 `2025.12.22` : 🚀 **[&zwj;  Springframwork Mig 기록 : @RequiredArgsConstructor와 의존성 주입, 언제 안전하고 언제 위험한가](https://yurizzy.tistory.com/252)**
 
 <!-- BLOG-POST-LIST:END -->
 
