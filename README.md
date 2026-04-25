@@ -90,25 +90,25 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-📅 `2026.04.03` : 📝 **[&zwj;  GCP to OCI 이전 구축기 및 504 Gateway Time-out 해결기 (feat. Swap Memory)](https://yurizzy.tistory.com/261)**
+📅 `2026.04.23` : 📝 **[⚡️개발자가 자주 사용하는 NANO명령어 (알쓸나잡) : Vim 유저도 당황하지 않는 Nano 편집기 완벽 가이드 (설정부터 커스텀까지)](https://yurizzy.tistory.com/265)**
+
+📅 `2026.04.22` : 📝 **[⚡️개발자가 자주 사용하는 VIM 명령어 모음 : 알아두면 쓸데있는 Vim 잡학지식(알쓸빔잡)](https://yurizzy.tistory.com/264)**
+
+📅 `2026.04.20` : 📖 **[️ 실무 : StrictHttpFirewall이 동작하는 원리 (feat. PROPFIND, WebDAV) | PROPFIND가 뭐예요 ?](https://yurizzy.tistory.com/263)**
+
+📅 `2026.04.16` : 🚀 **[&zwj;  Springframwork Mig 기록 : OKTA SAML 로그인 무한 루프 디버깅기 (feat. 백엔드&middot;프론트 환장의 콜라보)](https://yurizzy.tistory.com/262)**
+
+📅 `2026.04.03` : 📖 **[️ 실무 : GCP to OCI 이전 구축기 및 504 Gateway Time-out 해결기 (feat. Swap Memory)](https://yurizzy.tistory.com/261)**
 
 📅 `2026.04.01` : 📝 **[인프런(인프랩) 방문기 | 공약은 반드시 지킨다 (feat. 카파도키아 파우치)](https://yurizzy.tistory.com/260)**
 
-📅 `2026.03.30` : 📖 **[&zwj;  실무 : Referer로 망분리를 시도했다가 배운 것들 (feat. Stateless vs Stateful)](https://yurizzy.tistory.com/259)**
+📅 `2026.03.30` : 📖 **[️ 실무 : Referer로 망분리를 시도했다가 배운 것들 (feat. Stateless vs Stateful)](https://yurizzy.tistory.com/259)**
 
-📅 `2026.03.06` : 🌱 **[IP:8080은 이제 그만! 내 Spring Boot 프로젝트에 도메인과 HTTPS(무료) 자물쇠 달아주기](https://yurizzy.tistory.com/258)**
+📅 `2026.03.06` : 📖 **[️ 실무 : IP:8080은 이제 그만! 내 Spring Boot 프로젝트에 도메인과 HTTPS(무료) 자물쇠 달아주기](https://yurizzy.tistory.com/258)**
 
 📅 `2026.01.22` : 📖 **[&zwj;  Springframwork 실무 : JSP에서 JavaScript로  데이터 토스 ! ObjectMapper로 해결한 이야기](https://yurizzy.tistory.com/257)**
 
 📅 `2026.01.04` : ✍️ **[Inflearn ✅ 내가 하는 공부 로드맵 (feat. 2년 차 주니어가 만든 두 가지 학습 로드맵 이야기)](https://yurizzy.tistory.com/256)**
-
-📅 `2026.01.01` : 📖 **[&zwj;  Springframwork 실무 : 레거시 API 성능 개선기(feat. JPA) / N+1 문제와의 3라운드 사투](https://yurizzy.tistory.com/255)**
-
-📅 `2025.12.31` : 🚀 **[&zwj;  Springframwork Mig 기록 : 레거시 프로젝트에 단위 테스트 도입하기(feat.실패하고 배운 이야기)](https://yurizzy.tistory.com/254)**
-
-📅 `2025.12.23` : 🚀 **[&zwj;  Springframwork Mig 기록 : Spring Boot에서 Jasypt 자동 암복호화가 동작하는 원리](https://yurizzy.tistory.com/253)**
-
-📅 `2025.12.22` : 🚀 **[&zwj;  Springframwork Mig 기록 : @RequiredArgsConstructor와 의존성 주입, 언제 안전하고 언제 위험한가](https://yurizzy.tistory.com/252)**
 
 <!-- BLOG-POST-LIST:END -->
 
