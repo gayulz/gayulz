@@ -90,6 +90,8 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📅 `2026.04.28` : 🚀 **[&zwj;  Springframwork Mig 기록 : 화면에는 없는데 서버에는 필요한 값들 (feat. 세션 기반 파라미터)](https://yurizzy.tistory.com/266)**
+
 📅 `2026.04.23` : 📝 **[⚡️개발자가 자주 사용하는 NANO명령어 (알쓸나잡) : Vim 유저도 당황하지 않는 Nano 편집기 완벽 가이드 (설정부터 커스텀까지)](https://yurizzy.tistory.com/265)**
 
 📅 `2026.04.22` : 📝 **[⚡️개발자가 자주 사용하는 VIM 명령어 모음 : 알아두면 쓸데있는 Vim 잡학지식(알쓸빔잡)](https://yurizzy.tistory.com/264)**
@@ -107,8 +109,6 @@
 📅 `2026.03.06` : 📖 **[️ 실무 : IP:8080은 이제 그만! 내 Spring Boot 프로젝트에 도메인과 HTTPS(무료) 자물쇠 달아주기](https://yurizzy.tistory.com/258)**
 
 📅 `2026.01.22` : 📖 **[&zwj;  Springframwork 실무 : JSP에서 JavaScript로  데이터 토스 ! ObjectMapper로 해결한 이야기](https://yurizzy.tistory.com/257)**
-
-📅 `2026.01.04` : ✍️ **[Inflearn ✅ 내가 하는 공부 로드맵 (feat. 2년 차 주니어가 만든 두 가지 학습 로드맵 이야기)](https://yurizzy.tistory.com/256)**
 
 <!-- BLOG-POST-LIST:END -->
 
