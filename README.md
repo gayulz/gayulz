@@ -4,12 +4,6 @@
 
 ## 어제보다 나은 내일을 위해 꾸준히 기록하고 고민하는 백엔드 개발자입니다 🙋🏻‍♀️
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayulz&theme=vision_friendly_dark" width="100%" />
-
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gayulz&theme=vision_friendly_dark&exclude=HTML,CSS" width="49%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayulz&theme=vision_friendly_dark" width="49%"/>
-</p>
 
 </div>
 
