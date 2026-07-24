@@ -91,6 +91,8 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📅 `2026.07.24` : 📝 **[자바 Executor 프레임워크로 스레드 풀 다루기 (feat. ThreadPoolExecutor)](https://yurizzy.tistory.com/269)**
+
 📅 `2026.05.20` : 🚀 **[&zwj;  Springframwork Mig 기록 - GitLab CI/CD 빌드 환경 맞추기 (feat. Gradle 프로필 빌드)](https://yurizzy.tistory.com/268)**
 
 📅 `2026.05.16` : 📖 **[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 : 신입이 알아야 할 DB 성능&middot;풀스캔&middot;인덱스 9가지](https://yurizzy.tistory.com/267)**
@@ -108,8 +110,6 @@
 📅 `2026.04.03` : 📖 **[️ 실무 : GCP to OCI 이전 구축기 및 504 Gateway Time-out 해결기 (feat. Swap Memory)](https://yurizzy.tistory.com/261)**
 
 📅 `2026.04.01` : 📝 **[인프런(인프랩) 방문기 | 공약은 반드시 지킨다 (feat. 카파도키아 파우치)](https://yurizzy.tistory.com/260)**
-
-📅 `2026.03.30` : 📖 **[️ 실무 : Referer로 망분리를 시도했다가 배운 것들 (feat. Stateless vs Stateful)](https://yurizzy.tistory.com/259)**
 
 <!-- BLOG-POST-LIST:END -->
 
