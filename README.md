@@ -88,6 +88,8 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📅 `2026.08.09` : 📝 **[네트워크 타임아웃 예외가 발생하는 원리 (feat. ConnectException, SocketTimeoutException)](https://yurizzy.tistory.com/270)**
+
 📅 `2026.07.24` : 📝 **[자바 Executor 프레임워크로 스레드 풀 다루기 (feat. ThreadPoolExecutor)](https://yurizzy.tistory.com/269)**
 
 📅 `2026.05.20` : 🚀 **[&zwj;  Springframwork Mig 기록 - GitLab CI/CD 빌드 환경 맞추기 (feat. Gradle 프로필 빌드)](https://yurizzy.tistory.com/268)**
@@ -105,8 +107,6 @@
 📅 `2026.04.16` : 🚀 **[&zwj;  Springframwork Mig 기록 : OKTA SAML 로그인 무한 루프 디버깅기 (feat. 백엔드&middot;프론트 환장의 콜라보)](https://yurizzy.tistory.com/262)**
 
 📅 `2026.04.03` : 📖 **[️ 실무 : GCP to OCI 이전 구축기 및 504 Gateway Time-out 해결기 (feat. Swap Memory)](https://yurizzy.tistory.com/261)**
-
-📅 `2026.04.01` : 📝 **[인프런(인프랩) 방문기 | 공약은 반드시 지킨다 (feat. 카파도키아 파우치)](https://yurizzy.tistory.com/260)**
 
 <!-- BLOG-POST-LIST:END -->
 
