@@ -88,6 +88,8 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📅 `2026.08.21` : 📝 **[&zwj;  유니버설 링크 함정 도감 ① 설계와 값 &mdash; 전부 에러가 안 납니다](https://yurizzy.tistory.com/272)**
+
 📅 `2026.08.10` : 📝 **[백엔드 개발자가 반드시 잡는 예외 모음 (feat. IDE가 시키는 try~catch 탈출)](https://yurizzy.tistory.com/271)**
 
 📅 `2026.08.09` : 📝 **[네트워크 타임아웃 예외가 발생하는 원리 (feat. ConnectException, SocketTimeoutException)](https://yurizzy.tistory.com/270)**
@@ -105,8 +107,6 @@
 📅 `2026.04.22` : 📝 **[⚡️개발자가 자주 사용하는 VIM 명령어 모음 : 알아두면 쓸데있는 Vim 잡학지식(알쓸빔잡)](https://yurizzy.tistory.com/264)**
 
 📅 `2026.04.20` : 📖 **[️ 실무 : StrictHttpFirewall이 동작하는 원리 (feat. PROPFIND, WebDAV) | PROPFIND가 뭐예요 ?](https://yurizzy.tistory.com/263)**
-
-📅 `2026.04.16` : 🚀 **[&zwj;  Springframwork Mig 기록 : OKTA SAML 로그인 무한 루프 디버깅기 (feat. 백엔드&middot;프론트 환장의 콜라보)](https://yurizzy.tistory.com/262)**
 
 <!-- BLOG-POST-LIST:END -->
 
