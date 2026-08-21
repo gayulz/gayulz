@@ -1,3 +1,13 @@
 # AI 내부 문서 (사용자 명시 허용 전 추적 금지 — global rule: docs-gitignore.md)
 docs/
 ARCHITECTURE.md
+
+# Python 가상환경 및 캐시 (CI는 pip install로 매번 새로 설치함)
+venv/
+__pycache__/
+*.pyc
+rss_check_result.txt
+
+# 에디터 / OS 자동 생성 파일
+.idea/
+.DS_Store
