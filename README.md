@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0F2027,50:203A43,100:2C5364&text=Gayul%20Kim&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Developer&descSize=18&descAlignY=57&animation=fadeIn&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F2027,50:203A43,100:2C5364&section=header" width="100%"/>
+
+# Gayul Kim
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6DB33F&center=true&vCenter=true&width=620&height=45&lines=Backend+Developer;Legacy+%E2%86%92+Spring+Boot+Migration;Keep+Learning%2C+Keep+Growing" alt="Typing SVG"/>
 
 **어제보다 나은 내일을 위해 꾸준히 기록하고 성장합니다.**
 
@@ -23,27 +27,29 @@
 
 ---
 
-### 🔭 What I'm experiencing & learning
+### 🔭 What I'm Working On
 
-> **"단단한 아키텍처와 안정적인 시스템을 지향합니다."**
-> <br>
+> **레거시를 안전하게 걷어내고, 문제가 생겼을 때 빠르게 원인을 찾을 수 있는 시스템을 지향합니다.**
 
-**🌱 Architecture & Migration**
+**🌱 레거시 현대화**
 
-- **Legacy to Spring Boot**: 레거시 시스템을 최신 아키텍처로 안전하고 점진적으로 전환
-- **API Renewal**: RESTful 통신을 위한 기존 JSP 아키텍처 기반의 API화 개편
+- Spring Framework 3.x / Java 7 기반 서비스를 **Spring Boot 3.x / Java 17**로 단계별 이관 — 설계부터 운영 배포·안정화까지
+- XML 빈 설정을 Java Config로 전환하고, JSP 화면 흐름에서 REST API 계층을 분리
 
-**☁️ Infrastructure & Security**
+**🔐 인증과 보안**
 
-- **Cloud Migration**: 무중단 인프라 구축을 위한 GCP 👉 OCI 이전 및 트러블슈팅 경험
-- **SAML & JWT Auth**: Okta 기반 SAML 인증 도입 및 JWT를 활용한 안정적인 보안 아키텍처 설계
-- **Bot Defense**: 악성 봇 방어를 위한 reCAPTCHA 적용 및 중국(해외) 지역 네트워크 접속 우회 해결
+- SAML 기반 SSO 인증 도입 및 Spring Security 6 필터 체인 재구성
+- 로그 민감정보 마스킹 · 파일 다운로드 경로 검증 · 프론트엔드 라이브러리 CVE 해소
 
-**💡 Growth & Optimization**
+**📈 관측성과 안정화**
 
-- **Performance Tuning**: 성능 병목 개선 및 JPA N+1 문제 분석을 통한 쿼리 최적화
-- **Keep Logging**: 트러블슈팅 및 현업 최적화 경험을 기술 블로그에 꾸준하게 기록 중
-- **AI-Driven Edge**: Claude, Gemini 등 AI를 적극 활용하고 지속적으로 프롬프팅 역량을 키워 개발 생산성을 도모합니다.
+- 요청 단위 traceId(MDC) 구조화 로깅 도입 — 응답 헤더의 ID 하나로 로그를 추적할 수 있게
+- 오분류되던 예외를 정리해 운영 알람 노이즈를 줄이고, 종료 스크립트에 Graceful Shutdown 적용
+- 불필요한 JOIN을 걷어낸 조회 쿼리 개선, 재현 테스트를 동반한 NPE 방어
+
+**✍️ 기록과 도구**
+
+- 트러블슈팅과 개선 과정을 기술 블로그에 정리합니다. AI를 개발 흐름에 붙여 반복 작업을 줄이는 데 관심이 있습니다.
 
 ---
 
