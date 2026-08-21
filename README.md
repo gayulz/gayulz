@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=👩🏻‍💻안녕하세요-nl-Hello%20👋%20Hola&fontAlignY=50&fontColor=FFDD00&fontSize=60&animation=twinkling&section=header&reversal=true&descAlign=47&descAlignY=56&fontAlign=51&rotate=0&strokeWidth=1&stroke=FAF8FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0F2027,50:203A43,100:2C5364&text=Gayul%20Kim&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Developer&descSize=18&descAlignY=57&animation=fadeIn&section=header" width="100%"/>
 
-## 어제보다 나은 내일을 위해 꾸준히 기록하고 고민하는 백엔드 개발자입니다 🙋🏻‍♀️
+**어제보다 나은 내일을 위해 꾸준히 기록하고 성장합니다.**
 
 <img src="https://komarev.com/ghpvc/?username=gayulz&label=Profile%20views&color=0E75B6&style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/gayulz?label=Followers&style=flat-square&color=6DB33F" alt="Followers"/>
@@ -18,11 +18,6 @@
 <div align="center">
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
-
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gayulz&theme=vision_friendly_dark&exclude=HTML,CSS" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayulz&theme=vision_friendly_dark" width="49%"/>
-</p>
 
 </div>
 
