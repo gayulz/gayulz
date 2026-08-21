@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F2027,50:203A43,100:2C5364&section=header" width="100%"/>
-
-# Gayul Kim
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0F2027,50:203A43,100:2C5364&text=Gayul%20Kim&fontSize=46&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&section=header" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6DB33F&center=true&vCenter=true&width=620&height=45&lines=Backend+Developer;Legacy+%E2%86%92+Spring+Boot+Migration;Keep+Learning%2C+Keep+Growing" alt="Typing SVG"/>
 
