@@ -1,0 +1,3 @@
+# AI 내부 문서 (사용자 명시 허용 전 추적 금지 — global rule: docs-gitignore.md)
+docs/
+ARCHITECTURE.md

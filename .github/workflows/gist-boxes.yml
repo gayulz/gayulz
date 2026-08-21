@@ -1,0 +1,42 @@
+# 프로필에 고정(Pin)하는 Gist 2개를 자동 갱신하는 워크플로우
+#  1) productive-box   : 커밋 시각 분포 (아침형 / 밤형)
+#  2) github-stats-box : 누적 커밋 / PR / 이슈 / 스타
+# 두 도구 모두 Fork 없이 여기서 바로 실행한다.
+
+name: Update Pinned Gists
+
+on:
+  # 매일 17:00 UTC = 한국시간 새벽 02:00
+  schedule:
+    - cron: "0 17 * * *"
+
+  # Actions 탭에서 수동 실행
+  workflow_dispatch:
+
+jobs:
+  productive-box:
+    runs-on: ubuntu-latest
+    name: 커밋 시각 분포 갱신
+
+    steps:
+      - uses: maxam2017/productive-box@v1.2.0
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ vars.PRODUCTIVE_GIST_ID }}
+          TIMEZONE: ${{ vars.TIMEZONE }}
+
+  stats-box:
+    runs-on: ubuntu-latest
+    name: 누적 통계 갱신
+
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npx github-stats-box@1
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ vars.STATS_GIST_ID }}
+          ALL_COMMITS: true   # true = 전체 기간 커밋, false = 최근 1년
+          K_FORMAT: false     # true = 1.5k 형식, false = 전체 숫자
