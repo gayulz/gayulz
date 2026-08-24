@@ -102,7 +102,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-📅 `2026.08.21` : 📝 **[&zwj;  유니버설 링크 함정 도감 ① 설계와 값 &mdash; 전부 에러가 안 납니다](https://yurizzy.tistory.com/272)**
+📅 `2026.08.23` : 📖 **[실무 : iOS 유니버설 링크 / Android App Links 함정 도감 ③ 동작과 협업 (feat. 동일 도메인 제약, intent://)](https://yurizzy.tistory.com/274)**
+
+📅 `2026.08.22` : 📖 **[실무 : iOS 유니버설 링크 / Android App Links 함정 도감 ② 배포와 검증 (feat. AASA 404, pm get-app-links 1024)](https://yurizzy.tistory.com/273)**
+
+📅 `2026.08.21` : 📝 **[유니버설 링크 함정 도감 ① 설계와 값 &mdash; 전부 에러가 안 납니다](https://yurizzy.tistory.com/272)**
 
 📅 `2026.08.10` : 📝 **[백엔드 개발자가 반드시 잡는 예외 모음 (feat. IDE가 시키는 try~catch 탈출)](https://yurizzy.tistory.com/271)**
 
@@ -117,10 +121,6 @@
 📅 `2026.04.28` : 🚀 **[&zwj;  Springframwork Mig 기록 : 화면에는 없는데 서버에는 필요한 값들 (feat. 세션 기반 파라미터)](https://yurizzy.tistory.com/266)**
 
 📅 `2026.04.23` : 📝 **[⚡️개발자가 자주 사용하는 NANO명령어 (알쓸나잡) : Vim 유저도 당황하지 않는 Nano 편집기 완벽 가이드 (설정부터 커스텀까지)](https://yurizzy.tistory.com/265)**
-
-📅 `2026.04.22` : 📝 **[⚡️개발자가 자주 사용하는 VIM 명령어 모음 : 알아두면 쓸데있는 Vim 잡학지식(알쓸빔잡)](https://yurizzy.tistory.com/264)**
-
-📅 `2026.04.20` : 📖 **[️ 실무 : StrictHttpFirewall이 동작하는 원리 (feat. PROPFIND, WebDAV) | PROPFIND가 뭐예요 ?](https://yurizzy.tistory.com/263)**
 
 <!-- BLOG-POST-LIST:END -->
 
