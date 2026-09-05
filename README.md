@@ -102,25 +102,25 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📅 `2026.09.05` : 📝 **[옵시디언 스타일 티스토리 스킨 DevLog Vault 무료 배포(설치법 및 사용법 포함)](https://yurizzy.tistory.com/279)**
+
+📅 `2026.09.04` : ✍️ **[나만의 미니미 소장! 요즘 핫한 AI 피규어 제작 후기 &amp; 방법 | 무료 프롬프트 공유](https://yurizzy.tistory.com/278)**
+
+📅 `2026.08.29` : 📝 **[Gemini 이미지 생성 프롬프트 &middot; 일반 사진을 유화그림 스타일로 변환하기](https://yurizzy.tistory.com/277)**
+
+📅 `2026.08.26` : 📝 **[문의](https://yurizzy.tistory.com/276)**
+
+📅 `2026.08.26` : 📝 **[개인정보처리방침](https://yurizzy.tistory.com/275)**
+
 📅 `2026.08.23` : 📖 **[실무 : iOS 유니버설 링크 / Android App Links 함정 도감 ③ 동작과 협업 (feat. 동일 도메인 제약, intent://)](https://yurizzy.tistory.com/274)**
 
 📅 `2026.08.22` : 📖 **[실무 : iOS 유니버설 링크 / Android App Links 함정 도감 ② 배포와 검증 (feat. AASA 404, pm get-app-links 1024)](https://yurizzy.tistory.com/273)**
 
-📅 `2026.08.21` : 📝 **[유니버설 링크 함정 도감 ① 설계와 값 &mdash; 전부 에러가 안 납니다](https://yurizzy.tistory.com/272)**
+📅 `2026.08.21` : 📖 **[실무 : 유니버설 링크 함정 도감 ① 설계와 값 &mdash; 전부 에러가 안 납니다](https://yurizzy.tistory.com/272)**
 
 📅 `2026.08.10` : 📝 **[백엔드 개발자가 반드시 잡는 예외 모음 (feat. IDE가 시키는 try~catch 탈출)](https://yurizzy.tistory.com/271)**
 
 📅 `2026.08.09` : 📝 **[네트워크 타임아웃 예외가 발생하는 원리 (feat. ConnectException, SocketTimeoutException)](https://yurizzy.tistory.com/270)**
-
-📅 `2026.07.24` : 📝 **[자바 Executor 프레임워크로 스레드 풀 다루기 (feat. ThreadPoolExecutor)](https://yurizzy.tistory.com/269)**
-
-📅 `2026.05.20` : 🚀 **[&zwj;  Springframwork Mig 기록 - GitLab CI/CD 빌드 환경 맞추기 (feat. Gradle 프로필 빌드)](https://yurizzy.tistory.com/268)**
-
-📅 `2026.05.16` : 📖 **[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 : 신입이 알아야 할 DB 성능&middot;풀스캔&middot;인덱스 9가지](https://yurizzy.tistory.com/267)**
-
-📅 `2026.04.28` : 🚀 **[&zwj;  Springframwork Mig 기록 : 화면에는 없는데 서버에는 필요한 값들 (feat. 세션 기반 파라미터)](https://yurizzy.tistory.com/266)**
-
-📅 `2026.04.23` : 📝 **[⚡️개발자가 자주 사용하는 NANO명령어 (알쓸나잡) : Vim 유저도 당황하지 않는 Nano 편집기 완벽 가이드 (설정부터 커스텀까지)](https://yurizzy.tistory.com/265)**
 
 <!-- BLOG-POST-LIST:END -->
 
