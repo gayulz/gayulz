@@ -102,25 +102,25 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📅 `2026.10.28` : 📝 **[주니어 개발자의 이직 준비 STEP 1. 그룹바이 프로필 갱신 및 AI 핵심 인재 등록 &amp; 리뷰 받기](https://yurizzy.tistory.com/289)**
+
+📅 `2026.10.25` : 🚀 **[&zwj;  Spring Mig 기록 : 로그인 비밀번호 암호화 전환 (feat. RSA-OAEP)](https://yurizzy.tistory.com/286)**
+
+📅 `2026.10.17` : 📝 **[치이카와 프롬프트로 사진 속 사람을 먼작귀 캐릭터로 바꾸는 법](https://yurizzy.tistory.com/285)**
+
+📅 `2026.09.21` : 📝 **[엽서 같은 손그림 포스터 , 원본 사진과 함께 엽서를 만들어 보세요. AI 사진 변환 프롬프트](https://yurizzy.tistory.com/283)**
+
+📅 `2026.09.11` : 🐍 **[[macOS/Python] 멀티스레드 환경에서 subprocess 실행 시 SIGSEGV 크래시가 난 이유와 posix_spawn 해결기](https://yurizzy.tistory.com/282)**
+
+📅 `2026.09.09` : 📝 **[ChatGPT 이미지 변환 프롬프트 공유 | 유럽풍 동화책 수채화풍 이미지 변환 | 흐린 여행 사진이 감성 동화로 바뀌다](https://yurizzy.tistory.com/281)**
+
+📅 `2026.09.08` : 📝 **[모바일 청첩장 무료 배포, 제 결혼식에 쓴 코드를 그대로 드립니다 | 모바일 청첩장 | DIY 청첩장 | 평생소장가능 | 바이브코딩](https://yurizzy.tistory.com/280)**
+
 📅 `2026.09.05` : 📝 **[옵시디언 스타일 티스토리 스킨 DevLog Vault 무료 배포(설치법 및 사용법 포함)](https://yurizzy.tistory.com/279)**
 
 📅 `2026.09.04` : ✍️ **[나만의 미니미 소장! 요즘 핫한 AI 피규어 제작 후기 &amp; 방법 | 무료 프롬프트 공유](https://yurizzy.tistory.com/278)**
 
 📅 `2026.08.29` : 📝 **[Gemini 이미지 생성 프롬프트 &middot; 일반 사진을 유화그림 스타일로 변환하기](https://yurizzy.tistory.com/277)**
-
-📅 `2026.08.26` : 📝 **[문의](https://yurizzy.tistory.com/276)**
-
-📅 `2026.08.26` : 📝 **[개인정보처리방침](https://yurizzy.tistory.com/275)**
-
-📅 `2026.08.23` : 📖 **[실무 : iOS 유니버설 링크 / Android App Links 함정 도감 ③ 동작과 협업 (feat. 동일 도메인 제약, intent://)](https://yurizzy.tistory.com/274)**
-
-📅 `2026.08.22` : 📖 **[실무 : iOS 유니버설 링크 / Android App Links 함정 도감 ② 배포와 검증 (feat. AASA 404, pm get-app-links 1024)](https://yurizzy.tistory.com/273)**
-
-📅 `2026.08.21` : 📖 **[실무 : 유니버설 링크 함정 도감 ① 설계와 값 &mdash; 전부 에러가 안 납니다](https://yurizzy.tistory.com/272)**
-
-📅 `2026.08.10` : 📝 **[백엔드 개발자가 반드시 잡는 예외 모음 (feat. IDE가 시키는 try~catch 탈출)](https://yurizzy.tistory.com/271)**
-
-📅 `2026.08.09` : 📝 **[네트워크 타임아웃 예외가 발생하는 원리 (feat. ConnectException, SocketTimeoutException)](https://yurizzy.tistory.com/270)**
 
 <!-- BLOG-POST-LIST:END -->
 
