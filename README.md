@@ -102,25 +102,25 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📅 `2026.11.23` : 📝 **[&zwj;  AI-HUB Project chap 2 : LLM은 무엇인가: 다음 낱말을 맞히는 기계](https://yurizzy.tistory.com/295)**
+
+📅 `2026.11.23` : 📝 **[&zwj;  AI-HUB Project chap 1 : AI가 아니었으면 못 했을 프로젝트](https://yurizzy.tistory.com/294)**
+
+📅 `2026.11.13` : 📝 **[최저임금 따라 월급 오르던 내가 개발자가 됐다, AI 시대 내 연봉은 계속 동결일까? 그룹바이 연봉진단](https://yurizzy.tistory.com/293)**
+
+📅 `2026.11.12` : 📝 **[남편의 요청으로 만든 골캐너 웹사이트 ⛳️](https://yurizzy.tistory.com/292)**
+
+📅 `2026.11.04` : 📝 **[AI 시대에 살아남는 백엔드 개발자 이직 전략 | 그룹바이AI채용박람회](https://yurizzy.tistory.com/291)**
+
+📅 `2026.11.03` : 📝 **[&zwj;  로컬 LLM 원리 : 로컬 LLM이 동작하는 원리와 모델 선택 기준](https://yurizzy.tistory.com/290)**
+
 📅 `2026.10.28` : 📝 **[주니어 개발자의 이직 준비 STEP 1. 그룹바이 프로필 갱신 및 AI 핵심 인재 등록 &amp; 리뷰 받기](https://yurizzy.tistory.com/289)**
 
-📅 `2026.10.25` : 🚀 **[&zwj;  Spring Mig 기록 : 로그인 비밀번호 암호화 전환 (feat. RSA-OAEP)](https://yurizzy.tistory.com/286)**
-
-📅 `2026.10.17` : 📝 **[치이카와 프롬프트로 사진 속 사람을 먼작귀 캐릭터로 바꾸는 법](https://yurizzy.tistory.com/285)**
+📅 `2026.10.25` : 🌱 **[&zwj;  Spring/Devops : 로그인 비밀번호 암호화 전환 (feat. RSA-OAEP)](https://yurizzy.tistory.com/286)**
 
 📅 `2026.09.21` : 📝 **[엽서 같은 손그림 포스터 , 원본 사진과 함께 엽서를 만들어 보세요. AI 사진 변환 프롬프트](https://yurizzy.tistory.com/283)**
 
 📅 `2026.09.11` : 🐍 **[[macOS/Python] 멀티스레드 환경에서 subprocess 실행 시 SIGSEGV 크래시가 난 이유와 posix_spawn 해결기](https://yurizzy.tistory.com/282)**
-
-📅 `2026.09.09` : 📝 **[ChatGPT 이미지 변환 프롬프트 공유 | 유럽풍 동화책 수채화풍 이미지 변환 | 흐린 여행 사진이 감성 동화로 바뀌다](https://yurizzy.tistory.com/281)**
-
-📅 `2026.09.08` : 📝 **[모바일 청첩장 무료 배포, 제 결혼식에 쓴 코드를 그대로 드립니다 | 모바일 청첩장 | DIY 청첩장 | 평생소장가능 | 바이브코딩](https://yurizzy.tistory.com/280)**
-
-📅 `2026.09.05` : 📝 **[옵시디언 스타일 티스토리 스킨 DevLog Vault 무료 배포(설치법 및 사용법 포함)](https://yurizzy.tistory.com/279)**
-
-📅 `2026.09.04` : ✍️ **[나만의 미니미 소장! 요즘 핫한 AI 피규어 제작 후기 &amp; 방법 | 무료 프롬프트 공유](https://yurizzy.tistory.com/278)**
-
-📅 `2026.08.29` : 📝 **[Gemini 이미지 생성 프롬프트 &middot; 일반 사진을 유화그림 스타일로 변환하기](https://yurizzy.tistory.com/277)**
 
 <!-- BLOG-POST-LIST:END -->
 
