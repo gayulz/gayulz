@@ -102,6 +102,12 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📅 `2026.11.28` : 📝 **[&zwj;  AI-HUB Project chap 5 : 환각과 근거 넣기(RAG 맛보기)](https://yurizzy.tistory.com/298)**
+
+📅 `2026.11.28` : 📝 **[&zwj;  AI-HUB Project chap 4 : 프롬프트와 출력 형식 강제](https://yurizzy.tistory.com/297)**
+
+📅 `2026.11.27` : 📝 **[&zwj;  AI-HUB Project chap 3 : 토큰과 문맥 길이](https://yurizzy.tistory.com/296)**
+
 📅 `2026.11.23` : 📝 **[&zwj;  AI-HUB Project chap 2 : LLM은 무엇인가: 다음 낱말을 맞히는 기계](https://yurizzy.tistory.com/295)**
 
 📅 `2026.11.23` : 📝 **[&zwj;  AI-HUB Project chap 1 : AI가 아니었으면 못 했을 프로젝트](https://yurizzy.tistory.com/294)**
@@ -115,12 +121,6 @@
 📅 `2026.11.03` : 📝 **[&zwj;  로컬 LLM 원리 : 로컬 LLM이 동작하는 원리와 모델 선택 기준](https://yurizzy.tistory.com/290)**
 
 📅 `2026.10.28` : 📝 **[주니어 개발자의 이직 준비 STEP 1. 그룹바이 프로필 갱신 및 AI 핵심 인재 등록 &amp; 리뷰 받기](https://yurizzy.tistory.com/289)**
-
-📅 `2026.10.25` : 🌱 **[&zwj;  Spring/Devops : 로그인 비밀번호 암호화 전환 (feat. RSA-OAEP)](https://yurizzy.tistory.com/286)**
-
-📅 `2026.09.21` : 📝 **[엽서 같은 손그림 포스터 , 원본 사진과 함께 엽서를 만들어 보세요. AI 사진 변환 프롬프트](https://yurizzy.tistory.com/283)**
-
-📅 `2026.09.11` : 🐍 **[[macOS/Python] 멀티스레드 환경에서 subprocess 실행 시 SIGSEGV 크래시가 난 이유와 posix_spawn 해결기](https://yurizzy.tistory.com/282)**
 
 <!-- BLOG-POST-LIST:END -->
 
